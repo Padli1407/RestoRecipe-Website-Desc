@@ -1,7 +1,13 @@
-<h1>RestoRecipe</h1>
+# RestoRecipe
 
-<h2>Apa Itu RestoRecipe?</h2>
-<p>RestoRecipe adalah tempat untuk mencari dan berbagi resep makanan dan minuman kuliner khas Indonesia. Tersedia berbagai macam resep kuliner dimulai dari yang masakan sederhana hingga profesional.</p>
 
-<h2>Apa saja yg bisa dilakukan?</h2>
-<p>Pengguna dapat belajar cara memasak dengan mencari berbagai resep yang sudah disediakan. Pengguna juga dapat membagikan resepnya agar dapat digunakan oleh orang lain. Selain itu, pengguna juga dapat saling memberikan umpan balik untuk mengembangkan resepnya masing-masing.</p>
+## Apa Itu RestoRecipe?
+RestoRecipe adalah tempat untuk mencari dan berbagi resep makanan dan minuman kuliner khas Indonesia. Tersedia berbagai macam resep kuliner dimulai dari yang masakan sederhana hingga profesional.
+
+## Apa saja yg bisa dilakukan?
+Pengguna dapat belajar cara memasak dengan mencari berbagai resep yang sudah disediakan. Pengguna juga dapat membagikan resepnya agar dapat digunakan oleh orang lain. Selain itu, pengguna juga dapat saling memberikan umpan balik untuk mengembangkan resepnya masing-masing.
+
+# Penjelasan Desain Web
+  
+## 1. Menu Bar
+![MenuBar](https://github.com/Padli1407/RestoRecipe-Website-Desc/assets/131162646/1a5dd2a1-1f4a-4287-a183-8c8c0e611062)
